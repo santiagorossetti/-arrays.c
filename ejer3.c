@@ -12,5 +12,6 @@ int main (int argc, char *argv[]) {
         a[i] = rand () % m;
         printf ("%d \n", a[i]);
     }
+    return 0;
 }
 
